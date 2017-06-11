@@ -4,7 +4,7 @@ This is an important day for us in the bootcamp. As developers we use a _lot_ of
 
 In addition to the ethical justification, there are significant learning objectives to contributing to open source.
 
-* Forcing you to understanding existing code bases
+* Forcing you to understand existing code bases
 * Having to adhere to an existing style guide
 * Understanding the bug and getting clarification on the fix
 * The excitement of having your contributions accepted
