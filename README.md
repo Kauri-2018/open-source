@@ -26,6 +26,8 @@ https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
 * [The Beginner’s Guide to Contributing to Open Source Projects](https://blog.newrelic.com/2014/05/05/open-source_gettingstarted/)
 * [CodeMontage](https://www.codemontage.com/) - community-driven projects for NPOs
 * [CodeTriage](https://www.codetriage.com/)
+* [How to contribute to open source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+* [Contribute to open source](https://github.com/danthareja/contribute-to-open-source)
 * _Please submit a pull request if you find other good resources_
 
 
