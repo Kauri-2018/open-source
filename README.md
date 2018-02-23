@@ -33,6 +33,7 @@ https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
 
 ## Other ideas
 
+* This could be a good repo to contribute to: https://github.com/rmurphey/js-assessment
 * Think about a recent change in the community that will effect a lot of projects. For example, at the time of this edit, these just happened:
   - `react-router` was just updated from v3 to v4.
   - `React.propTypes` is no longer recommended. Now you should be using the npm `prop-types` package.
